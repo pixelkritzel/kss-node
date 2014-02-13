@@ -45,6 +45,7 @@ suite('KssStyleguide', function() {
 				for (key in sections) {
 					results.push(sections[key].data.reference);
 				}
+        console.log(results);
 				assert.deepEqual(results.sort(), expected.sort());
 			});
 		});
