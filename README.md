@@ -1,4 +1,6 @@
-# kss-node [![Build Status](https://secure.travis-ci.org/hughsk/kss-node.png?branch=master)](http://travis-ci.org/hughsk/kss-node)
+# kss-node
+
+**IMPORTANT: This is a fork, so I can use Markdown files as source for additional chapters. But it isn't fully working. I will male a pull request to the original repo, after I finished. So pleaase use the original: [demo directory](https://github.com/hughsk/kss-node)**
 
 This is a NodeJS implementation of [Knyle Style Sheets](https://github.com/kneath/kss) (KSS), "a documentation syntax for CSS". Beyond that, it's intended to have syntax readable by humans *and* machines - hence, this module can be used to create a "living styleguide". The methodology and ideas behind Knyle Style Sheets are contained in [the specification](https://github.com/kneath/kss/blob/master/SPEC.md).
 
